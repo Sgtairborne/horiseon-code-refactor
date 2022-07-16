@@ -1,2 +1,1 @@
-# horiseon-code-refactor
-1st activity with derek
+You can review the revised and imporoved html and css code located at Refactor-Challenge-index.html and Refactor-Challenge-style.css. The website has been revised to make improvements in semantic structure and annoted with appropriate comments.
